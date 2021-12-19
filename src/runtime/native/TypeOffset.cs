@@ -173,6 +173,7 @@ namespace Python.Runtime
                 "set_SuppressDocs",
                 "set_SuppressOverloads",
                 "setPreload",
+                "References",
             })
                 missing.Remove(notSlot);
 
